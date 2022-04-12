@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Product Analysis for Cobblestone Learning Center
+title: Product Analysis: Cobblestone Learning Center
 date: 2021-11-11 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: cobblestone.jpg # Add image post (optional)
