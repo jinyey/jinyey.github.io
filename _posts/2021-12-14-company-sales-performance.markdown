@@ -7,9 +7,9 @@ img: final-project-overview.png # Add image post (optional)
 tags: [Data Management, Warehousing, Visualization] # add tag
 ---
 
-Designed a data warehouse for the company in the retail industry to deliver advice on sales channels, benefits for old employees and total contribution for each country to drive sales growth.
-Utilized SQL to calculate the average number of orders for each employee, the total sales for new & old employees and their correlations.
-Established 6 Tableau dashboards to present key findings including product performance to the company's senior stakeholders and summarized adjustment of strategic decisions in the coming year.
+* Designed a data warehouse for the company in the retail industry to deliver advice on sales channels, benefits for old employees and total contribution for each country to drive sales growth
+* Utilized SQL to calculate the average number of orders for each employee, the total sales for new & old employees and their correlations
+* Established 6 Tableau dashboards to present key findings including product performance to the company's senior stakeholders and summarized adjustment of strategic decisions in the coming year
 
 ## Data Profiles
 This is a data warehouse that contains 16 columns of different attributes. It aims to provide detailed information on the order information. The data warehouse aggregates information from 6 different tables: orders, customers, shippers, employees, order_details, and products. It includes product information (num_product, subtotal, freight), shipping information (shipped_day, ordered_day, prepare_day, shipper_id, shipped_company),  employee information (employee_id, full_name, employee_category), and customer information (customer_id, cus_value, cus_company, cus_country) for each order.
