@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conjoint Analysis for Toy Horse Conjoint Experiment
+title: Analyzing a Toy Horse Conjoint Experiment
 date: 2021-12-06 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: toy-horse.jpg # Add image post (optional)
