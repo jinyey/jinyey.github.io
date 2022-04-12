@@ -7,9 +7,9 @@ img: toy-horse.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Analytics Design, Application]
 ---
-Performed conjoint analysis (including the cluster analysis and modified market simulation software) with teammates using R.
-Analyzed raw data to evaluate market share profitability and provided executive summary, including key insights and recommendations.
-Compared the market segmentation and competitor’s response for 5 combined scenarios; presented to the management team using PPT.
+* Performed conjoint analysis (including the cluster analysis and modified market simulation software) with teammates using R.
+* Analyzed raw data to evaluate market share profitability and provided executive summary, including key insights and recommendations.
+* Compared the market segmentation and competitor’s response for 5 combined scenarios; presented to the management team using PPT.
 
 ## Data Profiles
 * Attribute: price, height, motion, and style. These 4 attribute will provide us 16 profiles we can work with and we will reference these profiles throughout our presentation. 
