@@ -20,10 +20,12 @@ Conducted A/B testing on program effectiveness; presented to the management team
 ## Insights
 A greater understanding of student achievement
 * Achievement Metric
+
 High-level insight on program utilization & assistance understanding the effect of program participation on student outcomes.
 * Emphasized importance of tutoring course
 * Showed improvement metric comparison for different courses
+
 A better understanding of program effectiveness in center-based vs. on-line delivery.
 * Refresh course has seen improvement in achievement for online learning. 
-** With time we believe tutoring will reach that extra level of achievement. 
-** Online will provide advantages in scalability which will aid in future growth efforts. 
+  * With time we believe tutoring will reach that extra level of achievement. 
+  * Online will provide advantages in scalability which will aid in future growth efforts. 
