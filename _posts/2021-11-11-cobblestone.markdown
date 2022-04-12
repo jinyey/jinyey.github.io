@@ -7,9 +7,9 @@ img: cobblestone.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Analytics Design, Product Analysis, A/B Testing, Application]
 ---
-Performed product analysis based on the achievement of 9k student using SQL.
-Analyzed raw data to evaluate students’ achievements in different regions and provided executive summary, including key insights and recommendations.
-Conducted A/B testing on program effectiveness; presented to the management team using PPT.
+* Performed product analysis based on the achievement of 9k student using SQL
+* Analyzed raw data to evaluate students’ achievements in different regions and provided executive summary, including key insights and recommendations
+* Conducted A/B testing on program effectiveness; presented to the management team using PPT
 
 ## Data Profiles
 * CLC offers tutoring services and test preparation courses to students in grades 7-12 across our metropolitan area.
