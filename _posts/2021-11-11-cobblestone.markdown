@@ -12,7 +12,7 @@ tags: [Analytics Design, Product Analysis, A/B Testing, Application]
 * Conducted A/B testing on program effectiveness; presented to the management team using PPT.
 
 ## Data Profiles
-* CLC offers tutoring services and test preparation courses to students in grades 7-12 across our metropolitan area.
+* CLC(Cobblestone Learning Center) offers tutoring services and test preparation courses to students in grades 7-12 across our metropolitan area.
 * We have multiple centers at which students can enroll in classes or receive one-on-one-tutoring. Some services are also offered on-line.
 * CLC was founded in 2012. In 2014, we acquired our largest competitor in the area and added 12 new center locations. In 2016, we started offering some programs on-line, and continue to expand in this arena. 
 * Current initiative to use data analytics to help us understand how to better serve our clients and how to steer our business strategy.
