@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Used Amazon review data to analyze and design a brand-new product
-date: 2022-4-28 00:00:00 +0300
+date: 2022-4-24 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: dogs-food.jpg # Add image post (optional)
 fig-caption:# Add figcaption (optional)
