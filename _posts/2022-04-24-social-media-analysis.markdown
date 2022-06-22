@@ -5,9 +5,9 @@ date: 2022-4-24 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: dogs-food.jpg # Add image post (optional)
 fig-caption:# Add figcaption (optional)
-tags: [Socail Media Analysis, Text-analysis, LDA, Word2Vec, Customer Reviews, Amazon]
+tags: [Socail Media Analysis, Text-analysis, LDA, Word2Vec, Amazon]
 ---
-* launched a brand-new product o fix current problems and change the status quo of the market after deep digging into the Amazon review data
+* Launched a brand-new product to fix current problems and change the status quo of the market after deep digging into the Amazon review data
 * Detailed market analysis to address the specific aspects by using the LDA, Topic Modeling, Word2Vec
 
 ## Data Profiles
