@@ -7,7 +7,7 @@ img: risk-home.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Predictive Analysis, Application, Risk Analysis]
 ---
-* Designed interface that sales representatives in a bank/credit card company can use to decide on accepting or rejecting applications.
+* Designed interface that sales representatives in a bank/credit card company can use to decide on accepting or rejecting applications
 * Developed a predictive model to assess credit risk
 * Trained and evaluated model performance
 
